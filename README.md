@@ -31,6 +31,16 @@ A PDF with detailed instructions is included in the repository.
 
 ---
 
+## 📧 Author
+**Fawad Saqib**
+
+💬 Reach out via GitHub for feedback or collaboration!  
+
+---
+
+## 📝 License
+This project is intended for **academic and non-commercial use only**.
+
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
